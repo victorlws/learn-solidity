@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: GPL-3.0
 pragma solidity ^0.8.0;
 
-contract MyContract2 {
+contract LearnFunction {
     // built-in variables
     //msg.sender // address of sender
     //msg.value  //ether send in transaction, 0 if only execute smart contract

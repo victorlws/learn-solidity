@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: GPL-3.0
 pragma solidity ^0.8.0;
 
-contract MyContract3 {
+contract LearnVisibility {
 
     //private state that only access within current contract
     //default state visibility
